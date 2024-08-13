@@ -1,0 +1,29 @@
+.body{
+ margin:auto;
+ pading:0% auto;
+background:light-Blue
+ color:red;
+
+font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+font-size:35px;
+
+}
+
+
+h2{
+ color:orange;
+ font-family:times,"times new roman",palatino;
+ text-align:center;
+font-size:35px;
+}
+div.image {
+     
+   float:left;
+clear:both;
+ 
+ img{
+ z-index:-1;
+}   
+table, th, td {
+    border: 5px solid black;
+}
